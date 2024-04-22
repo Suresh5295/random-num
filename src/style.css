@@ -1,0 +1,27 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 370px;
+    height: 60px;
+    justify-content: space-around;
+    background-color: gray;
+align-items: center;
+   display: flex;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 10px;
+   
+}
+
+.overall{
+    background-color: aquamarine;
+    width: fit-content;
+  
+}
+.ctr{
+    display: flex;
+    justify-content: center;
+
+}
